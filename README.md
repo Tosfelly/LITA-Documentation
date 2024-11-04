@@ -39,7 +39,12 @@ This involved the exploring of the Data to answer some questions about the Data 
 ---
 ### Data Analysis
 This is where I include some of the DAX expressions used during the data analysis and some pictures showing the return values.
-[Download Here](https://github.com/user-attachments/assets/679368a7-78e6-46c0-9337-1dca11723faa)
+[Download Here](https://github.com/user-attachments/assets/679368a7-78e6-46c0-9337-1dca11723faa),
+![image](https://github.com/user-attachments/assets/08315d85-dedb-48a2-8f2d-b4166c00ae12),
+![image](https://github.com/user-attachments/assets/c5e109d2-6411-4c10-aa64-a046e8b8ee01)
+
+
+
 
 
 

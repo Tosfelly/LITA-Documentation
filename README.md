@@ -1,4 +1,4 @@
-# LITA_Class_Documentation
+# LITA_Capstone_Project
 
 ### Project Title: Sales Performance Analysis for a Retail Store
 ### Project Overview
@@ -42,6 +42,12 @@ This is where I include some of the DAX expressions used during the data analysi
 [Download Here](https://github.com/user-attachments/assets/679368a7-78e6-46c0-9337-1dca11723faa),
 ![image](https://github.com/user-attachments/assets/08315d85-dedb-48a2-8f2d-b4166c00ae12),
 ![image](https://github.com/user-attachments/assets/c5e109d2-6411-4c10-aa64-a046e8b8ee01)
+![image](https://github.com/user-attachments/assets/349df04b-05d8-446c-8e16-37fb7ab20ed4)
+![image](https://github.com/user-attachments/assets/1d2e4433-f11b-4c2b-95f8-690cb8c4e242)
+
+
+
+
 
 
 
